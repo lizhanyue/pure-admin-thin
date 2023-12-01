@@ -19,3 +19,7 @@ tests/**/coverage/
 *.njsproj
 *.sln
 tsconfig.tsbuildinfo
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
