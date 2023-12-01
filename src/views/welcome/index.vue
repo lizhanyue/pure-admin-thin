@@ -6,5 +6,5 @@ defineOptions({
 
 <template>
   <h1>Pure-Admin-Thin（非国际化版本）</h1>
-  <p>好像不见，vue</p>
+  <p>好久不见，vue</p>
 </template>
