@@ -6,4 +6,5 @@ defineOptions({
 
 <template>
   <h1>Pure-Admin-Thin（非国际化版本）</h1>
+  <p>晕</p>
 </template>
